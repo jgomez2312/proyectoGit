@@ -7,3 +7,4 @@ otro desde github
 
 
 un cambio despues de poner ssh 
+otro mas desde linux pc
